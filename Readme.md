@@ -9,7 +9,6 @@ This application is a registry of people built with PHP (MVC standard), MySQL, V
 
 ## Screeshoots
 ![GitHub Logo](public/img/screen.png)
-Format: ![Alt Text](url)
 
 ## Installation
 - Import the "Base.sql" file into your mysql database.
