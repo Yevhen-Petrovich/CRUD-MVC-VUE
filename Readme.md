@@ -8,9 +8,8 @@ This application is a registry of people built with PHP (MVC standard), MySQL, V
 * Edit information
 
 ## Screeshoots
-
-! [crud] (public / imag / screen.png? raw = true "crud")
-
+![GitHub Logo](public/img/screen.png)
+Format: ![Alt Text](url)
 
 ## Installation
 - Import the "Base.sql" file into your mysql database.
