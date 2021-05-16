@@ -4,8 +4,8 @@
 This application is a registry of people built with PHP (MVC standard), MySQL, Vue.js.
 
 ## Available functions
-* [] Add students
-* [] Edit information
+* Add students
+* Edit information
 
 ## Screeshoots
 
