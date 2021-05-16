@@ -14,7 +14,7 @@ This application is a registry of people built with PHP (MVC standard), MySQL, V
 - Import the "Base.sql" file into your mysql database.
 
 - Set up config / connection.php file with your server settings.
-- $hostname = 'localhost'; // Hostname of your database server - example: localhost,
-- $database = 'Base'; // Database name,
-- $username = 'root'; // Username,
-- $password = ''; // Password used to connect to the database
+    - $hostname = 'localhost'; // Hostname of your database server - example: localhost,
+    - $database = 'Base'; // Database name,
+    - $username = 'root'; // Username,
+    - $password = ''; // Password used to connect to the database
