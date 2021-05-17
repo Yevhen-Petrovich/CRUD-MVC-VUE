@@ -7,7 +7,7 @@ This application is a registry of people built with PHP (MVC standard), MySQL, V
 * Add students
 * Edit information
 
-## Screeshoots
+## Screenshoots
 ![GitHub Logo](public/img/screen.png)
 
 ## Installation
